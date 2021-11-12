@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://easygot.net</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://easygot.net/vacantes</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://easygot.net/app</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://easygot.net/servicios</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://easygot.net/info</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://easygot.net/offline</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
